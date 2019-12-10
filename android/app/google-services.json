@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434222984579",
+    "firebase_url": "https://leaveapp-26b5b.firebaseio.com",
+    "project_id": "leaveapp-26b5b",
+    "storage_bucket": "leaveapp-26b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434222984579:android:ad6e7f0a0b3c40a1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434222984579-fsra4drm578r4ufff13hufm5pkp24e7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBR4gmRM2dssjlVQYt6i60BGqPJEZmqTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434222984579-fsra4drm578r4ufff13hufm5pkp24e7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
